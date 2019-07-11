@@ -1,1 +1,9 @@
 # Toxic-Comment-Detection
+Requirements : 
+train.csv : Download link : https://storage.googleapis.com/kaggle-competitions-data/kaggle/12500/539235/train.csv.zip?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1563128944&Signature=B81itAQhlefZrJcPm3HIc1HM77VD5YYC6bMrsXSSGKlH0dO%2FAUyL%2FOOTxIOmPg7FiqCz0PzY2SP2awNXQoynFDgIJG8%2F5ZIOjxhE%2BKndPkmWrkOOZ389DkwD51WrkCVZFB2K7rgAQixlXnNxe2ZM83Qi4Bzqqx%2F7lCvu86EFz%2B9EA1k6VNIDmMsNUhSEMkexLT4RWGtUhTLPnI0vFKW9mMgYaUHLAtjTn0bS5YdzegLiy7ZkLxKMSrgfadY3PXb1J6kXGJnsfOuabp9FNJFG72FobPwYSJrAJSMYxg4ElHx5%2BXtUiUABf%2F%2F%2B%2FRE4bfulFfv7caccldxtAskLbc5dzg%3D%3D
+
+test.csv : Download link : https://storage.googleapis.com/kaggle-competitions-data/kaggle/12500/539235/test.csv.zip?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1563128938&Signature=O127aRZGb6iodYoRD5Akac0xaEwWsy1DH2Fl7TbKh%2BOZ%2FS8s7tWi4LVLRE8BNZf6%2ByzO8Ypx%2FAFMxLW9bjux3zZzxXIecDwHgJlTqeLTZcd%2BVu7UE05LD6XzGt8NICn4KuzekOXS%2BhnS8cMIlIaSdxJoeneN88W%2BRLLy%2BpuMiZdHS6ecNTrcXjqiqSkZOx59Ti%2FJATr707RLDuQAQ1aHTBdFWbeMmBPlaZoojWe6cM2W0fd7r%2Fm2jCJjSzIrpiLmk6%2BfDZcYOiMkMv%2Fa8RQgryGz09gvch5ZHNtvPy%2FpN69O7xPJBxuKtgUAf4%2F6Ykfx3ybOzmTVfyPT2sy8bbE%2F6w%3D%3D
+
+embedding_file : Download link : https://storage.googleapis.com/kaggle-datasets/14154/19053/crawl-300d-2M.vec.zip?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1563128955&Signature=eHoDgpIsN%2BYi7mUXo8FmCWO55oMWv8Q%2F9CfdXyiCgYVaJ4oUOMa4SWJMr5o3HOhoY1BjLGgWOpG6RwCSANp0k%2F9NVtUujAa0wke29Yq0ASl4pBF33LdAWktfgbrlSDCATkvYEMh8djsmSMVvJGu7Swwh0Ds4w508BSCZtFTUKA4m1CiOWFfjX5cUq1%2BniOOz9%2FEdPFvMNY0zyWV2M3snZ1CGnOVIhp9xLLdYrY9i5s8rbaAIibPK3tHYwWfwgqP1vIR5qCqGMdws6KV9Dq6zVogcXBe48xtCM9RfG8Al6NsdZsC5J8WPy8wDxvzmQOAfNRAFGrkOj%2FY4Ju7JP3K8xw%3D%3D
+
+Note : Changes the name/path of above files in the notebook before executing the code.The code is GPU compatible and therefore a GPU is preferable for quickly training the models.
